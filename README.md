@@ -2,7 +2,7 @@
 <hr>
 <br>
 
-##  “Combata funcionalidades… a única forma de fazer software seguro, confiável e rápido é faze-lo pequeno.” <br>  <sub><sub> Andrew Stuart Tanenbaum<sub></sub> <br><br>
+##  “A melhor maneira de prever o futuro é criá-lo.” <br>  <sub><sub> — Peter Drucker <sub></sub> <br><br>
 
 
 <br>

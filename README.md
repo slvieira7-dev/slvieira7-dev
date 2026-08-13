@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**slvieira7-dev/slvieira7-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br>
+## “Combata funcionalidades… a única forma de fazer software seguro, confiável e rápido é faze-lo pequeno.” <br> <sub><sub> Andrew Stuart Tanenbaum<sub></sub> <br><br>
 
-Here are some ideas to get you started:
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=angular,c,java,mysql,postgresql,html,css,spring,ts" />
+
+<br><br>
+
+<hr>
+
+<br>
+
+<a href="mailto:slvieira7@hotmail.com">
+  <img src="https://img.shields.io/badge/email-1a1a1a?style=for-the-badge&logo=email&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/silvio-ramos-8633013b5">
+  <img src="https://img.shields.io/badge/LINKEDIN-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+
+

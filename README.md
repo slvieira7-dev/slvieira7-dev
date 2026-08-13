@@ -8,8 +8,9 @@
 <br>
 <br>
 
+<a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=angular,c,java,mysql,postgresql,html,css,spring,ts" />
-
+</a>
 <br><br>
 
 <hr>

@@ -1,9 +1,10 @@
 <div align="center">
-
-<br><br>
-## “Combata funcionalidades… a única forma de fazer software seguro, confiável e rápido é faze-lo pequeno.” <br> <sub><sub> Andrew Stuart Tanenbaum<sub></sub>
-
 <hr>
+<br>
+
+##  “Combata funcionalidades… a única forma de fazer software seguro, confiável e rápido é faze-lo pequeno.” <br>  <sub><sub> Andrew Stuart Tanenbaum<sub></sub> <br><br>
+
+
 <br>
 <br>
 
@@ -22,6 +23,8 @@
   <img src="https://img.shields.io/badge/LINKEDIN-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<br>
+<hr>
 </div>
 
 
